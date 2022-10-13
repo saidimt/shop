@@ -1,4 +1,4 @@
-# Inventory Management System
+# Duka la Hardware Management System
 
 A simple PHP web system for managing an inventory.  
   
